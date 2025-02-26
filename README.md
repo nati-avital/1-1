@@ -67,6 +67,7 @@
             flex-direction: column;
             align-items: center;
         }
+
         
         .counter {
             font-size: 1.5rem;
